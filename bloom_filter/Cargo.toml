@@ -1,0 +1,10 @@
+[package]
+name = "bloom_filter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+murmur3 = "0.5.2"
+
+[dev-dependencies]
+rand = "0.8.5"
